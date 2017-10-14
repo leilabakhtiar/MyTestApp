@@ -148,6 +148,7 @@ public class ApplicationStrat {
         loginButton.click();
 
         Thread.sleep(10000);
+        //Changes
     }
 
     private static void LoginTestWrongPasswordCaptcha(WebDriver driver) throws InterruptedException {
